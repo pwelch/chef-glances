@@ -1,6 +1,8 @@
-# glances-cookbook
+[![Build Status](https://secure.travis-ci.org/pwelch/chef-avahi.png)](http://travis-ci.org/pwelch/chef-glances)
+[![Dependency Status](https://gemnasium.com/pwelch/chef-avahi.png)](https://gemnasium.com/pwelch/chef-glances)
 
-Installs the [glances monitoring tool](http://nicolargo.github.io/glances/)
+## Description
+Chef Cookbook to install the [Glances Monitoring Tool](http://nicolargo.github.io/glances/)
 
 ## Usage
 
